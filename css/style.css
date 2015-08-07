@@ -6,14 +6,29 @@ body {
 #vk_groups,
 #vk_groups iframe {
     width: 100% !important;
+    margin-bottom: 2rem;
+}
+
+.instahead{
+    display: block;
+    height: 36px;
+    font-weight: bold;
+    padding: 8px;
+    vertical-align: middle;
+    line-height: 1.81em;
+    color: #FFF;
+    background-color: #BCAD10;
+    margin-bottom: 1rem;
+    font-size: 12px;
 }
 
 
 
-    .myheader {
-        background: url("../img/bg-header.jpg") no-repeat center center;
-        height: 270px;
-    }
+
+.myheader {
+    background: url("../img/bg-header.jpg") no-repeat center center;
+    height: 270px;
+}
 
 
 .myicons a{
