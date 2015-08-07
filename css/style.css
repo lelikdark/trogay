@@ -535,6 +535,7 @@ table.hide-for-touch {
 thead.hide-for-touch {
     display: table-header-group !important; }
 
+
 .touch thead.show-for-touch {
     display: table-header-group !important; }
 
