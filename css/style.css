@@ -1,6 +1,6 @@
 body {
     background: #61B902 !important;
-}
+    }
 
 @font-face {
     font-family: 'bip';
@@ -18,7 +18,7 @@ body {
 #vk_groups iframe {
     width: 100% !important;
     margin-bottom: 2rem;
-}
+    }
 
 .instahead{
     display: block;
@@ -31,23 +31,24 @@ body {
     background-color: #BCAD10;
     margin-bottom: 1rem;
     font-size: 12px;
-}
+    }
 
 
 h1,h2,h3,h4 {
     font-family: bip !important;
+    font-weight: 100;
     }
 
 
 .myheader {
     background: url("../img/bg-header.jpg") no-repeat center center;
     height: 270px;
-}
+    }
 
 
 .myicons a{
     text-decoration:none !important;
-}
+    }
 
 
 .myicons i.huge.icon:hover{
@@ -58,17 +59,17 @@ h1,h2,h3,h4 {
     transform: scale(1.5);
     transition: 2s;
 
-}
+    }
 
 .myphoto {
     margin-top: 2rem;
-}
+    }
 
 .menu {
     max-width: 1038px;
     margin: 0 auto;
     margin-top: 0.55rem;
-}
+    }
 
 .menu li  {
     list-style: none ;
@@ -78,7 +79,7 @@ h1,h2,h3,h4 {
 
     display: inline-block;
     margin-bottom: 1rem;
-}
+    }
 
 .menu li a {
     z-index:10;
@@ -98,7 +99,7 @@ h1,h2,h3,h4 {
     -moz-transition:all 0.4s ease;
     -webkit-transition:all 0.4s ease;
     -o-transition:all 0.4s ease;
-}
+    }
 
 
 .menu li a:hover {
@@ -107,14 +108,14 @@ h1,h2,h3,h4 {
     0px 3px 4px #F6EBB2,
     -3px 0px 4px #F6EBB2;
 
-}
+    }
 
 
 
 .myfooter {
     background: url("../img/bg-footer.png") no-repeat center center;
     height: 180px;
-}
+    }
 
 
 /*???????????? */
