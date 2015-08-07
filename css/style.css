@@ -3,12 +3,10 @@ body {
 }
 
 
-
-
-
-
-
-
+#vk_groups,
+#vk_groups iframe {
+    width: 100% !important;
+}
 
 
 
