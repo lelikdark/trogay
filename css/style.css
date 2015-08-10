@@ -85,7 +85,7 @@ h1, h2, h3, h4 {
     z-index: 10;
     font-family: 'bip';
     color: #6d2c00;
-    font-size: 19px;
+    font-size: 18px;
     letter-spacing: 1px;
     line-height: 51px;
     display: inline-block;
@@ -97,6 +97,7 @@ h1, h2, h3, h4 {
     -moz-transition: all 0.4s ease;
     -webkit-transition: all 0.4s ease;
     -o-transition: all 0.4s ease;
+    margin-top: 2rem;
     }
 
 
