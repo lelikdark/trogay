@@ -81,6 +81,15 @@ h1, h2, h3, h4, h5 {
     -o-transition: all 0.4s ease;
 }
 
+.grid-item {
+    width: 200px;
+    margin-bottom: 10px;
+}
+
+.grid-item--width2 {
+    width: 400px;
+}
+
 
 
 
