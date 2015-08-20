@@ -90,6 +90,7 @@ h1, h2, h3, h4, h5 {
 .grid-item {
     width: 200px;
     margin-bottom: 10px;
+    display: none;
 }
 
 .grid-item--width2 {
